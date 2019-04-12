@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zhouwei/projects/zxProject/base/ReadData.h
+fstream
+-
+iostream
+-
+string
+-
+vector
+-
+
+/home/zhouwei/projects/zxProject/base/Utils.h
+string
+-
+vector
+-
+
+/home/zhouwei/projects/zxProject/main.cpp
+iostream
+-
+base/ReadData.h
+/home/zhouwei/projects/zxProject/base/ReadData.h
+base/Utils.h
+/home/zhouwei/projects/zxProject/base/Utils.h
+string
+-
+vector
+-
+memory
+-
+limits
+-
+map
+-
+algorithm
+-
+set
+-
+

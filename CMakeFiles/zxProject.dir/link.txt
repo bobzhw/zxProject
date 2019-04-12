@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/zxProject.dir/main.cpp.o CMakeFiles/zxProject.dir/base/ReadData.cpp.o CMakeFiles/zxProject.dir/base/Utils.cpp.o CMakeFiles/zxProject.dir/base/WriteData.cpp.o CMakeFiles/zxProject.dir/Draw.cpp.o  -o zxProject 

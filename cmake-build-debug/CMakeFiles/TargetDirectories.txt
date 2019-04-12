@@ -1,0 +1,3 @@
+/home/zhouwei/projects/zxProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zhouwei/projects/zxProject/cmake-build-debug/CMakeFiles/zxProject.dir
+/home/zhouwei/projects/zxProject/cmake-build-debug/CMakeFiles/edit_cache.dir
